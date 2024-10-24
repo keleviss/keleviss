@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kelesidisvissarion@gmail.com**
 
-- ⚡ Fun fact **I enjoy spending time at coffee shops with my laptop.**
+- ⚡ Fun fact **I enjoy spending time at coffee shops with my laptop**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
