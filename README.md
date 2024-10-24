@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js and Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [www.vissarion-kelesidis.me](www.vissarion-kelesidis.me)
+- 👨‍💻 All of my projects are available at [www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me/)
 
 - ⚡ Fun fact **I enjoy spending time at coffee shops with my laptop.**
 
