@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vissarion!</h1>
 <h3 align="center">Compuer Science and Computer Engineer Student at the University of West Attica.</h3>
 
-- 🔭 I’m currently working on [my personal website](https://www.vissarion-kelesidis.me)
+- 🔭 I’m currently working on **[my personal website](https://www.vissarion-kelesidis.me)**
 
 - 🌱 I’m currently learning **React, Node.js and Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)
+- 👨‍💻 All of my projects are available at **[www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)**
 
 - 📫 How to reach me **kelesidisvissarion@gmail.com**
 
