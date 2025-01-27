@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vissarion!</h1>
 <h3 align="center">Compuer Science and Computer Engineer Student at the University of West Attica.</h3>
 
-- 🔭 I’m currently working on a private React project
+- 🔭 I’m currently working on a Song Playlist Web app using the Spotify API
 
 - 🌱 I’m currently learning **React, Node.js and Full Stack Web Development**
 
