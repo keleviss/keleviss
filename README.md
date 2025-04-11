@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, and Front End Development**
 
-- 👨‍💻 Check out my portfolio here: [www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)
+- 👨‍💻 Check out my portfolio here: **[www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)**
 
 - 📫 Here's my email address: **kelesidisvissarion@gmail.com**
 
