@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vissarion!</h1>
 <h3 align="center">Computer Science and Computer Engineer Student at the University of West Attica.</h3>
 
-- 🔭 I’m currently working on a Song Playlist Web app using the Spotify API
+- 🔭 I’m currently working on a Mini Reddit Web app using the Reddit API
 
-- 🌱 I’m currently learning **React, Node.js and Full Stack Web Development**
+- 🌱 I’m currently learning **React, TypeScript, and Front End Development**
 
-- 👨‍💻 All of my projects are available at [www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)
+- 👨‍💻 Check out my portfolio here: [www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)
 
-- 📫 How to reach me **kelesidisvissarion@gmail.com**
+- 📫 Here's my email address: **kelesidisvissarion@gmail.com**
 
-- ⚡ Fun fact **I enjoy spending time at coffee shops with my laptop**
+- ⚡ Fun fact **I really enjoy driving and I like going on road trips**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
