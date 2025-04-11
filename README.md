@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vissarion!</h1>
-<h3 align="center">Computer Science and Computer Engineer Student at the University of West Attica.</h3>
+<h1>Hi 👋, I'm Vissarion!</h1>
+<h3>Computer Science and Computer Engineer Student at the University of West Attica.</h3>
 
 - 🔭 I’m currently working on a Mini Reddit Web app using the Reddit API
 
