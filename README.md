@@ -1,8 +1,6 @@
 <h1>Hi, I'm Vissarion!</h1>
 <h3>Front End Developer at FXGT and Computer Science Student at the University of West Attica.</h3>
 
-- I’m currently working on a **Mini Reddit** web app using the **Reddit API**
-
 - I’m currently learning **React, TypeScript, and Front End Development**
 
 - Check out my website here: **[www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)**
