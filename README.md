@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vissarion!</h1>
-<h3>Front End Developer at FXGT and Computer Science Student at the University of West Attica.</h3>
+<h3>Front End Software Engineer at FXGT</h3>
 
-- I’m currently learning **React, TypeScript, and Front End Development**
+- I’m currently learning **React, TypeScript, and Front End Web Development**, but my goal is to become a fullstack engineer.
 
 - Check out my website here: **[www.vissarion-kelesidis.me](https://www.vissarion-kelesidis.me)**
 
